@@ -13,6 +13,15 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=harshitamulanii&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=harshitamulanii&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<div align="center">
+  
+  ![snake gif](https://github.com/harshitamulanii/harshitamulanii/blob/output/github-snake-dark.svg)
+  </div>
+
+<div align="center">
+  
+  [![](https://komarev.com/ghpvc/?username=harshitamulanii&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
